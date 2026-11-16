@@ -1,0 +1,1 @@
+cargo:rustc-env=BIOS_PATH=/home/tilak/Desktop/micro/target/debug/build/os/1b261239f4ec799c/out/bios.img

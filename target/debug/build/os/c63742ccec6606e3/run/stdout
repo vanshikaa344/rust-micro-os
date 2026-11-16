@@ -1,0 +1,1 @@
+cargo:rustc-env=BIOS_PATH=/Users/akshat/Downloads/micro/target/debug/build/os/c63742ccec6606e3/out/bios.img

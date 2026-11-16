@@ -1,0 +1,13 @@
+/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/6159d91181b45882/out/bootloader_api-6159d91181b45882.d: /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/concat.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/version_info.rs
+
+/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/6159d91181b45882/out/libbootloader_api-6159d91181b45882.rlib: /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/concat.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/version_info.rs
+
+/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/6159d91181b45882/out/libbootloader_api-6159d91181b45882.rmeta: /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/concat.rs /Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/version_info.rs
+
+/Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs:
+/Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs:
+/Users/akshat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs:
+/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/concat.rs:
+/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out/version_info.rs:
+
+# env-dep:OUT_DIR=/Users/akshat/Downloads/micro/target/x86_64-unknown-none/debug/build/bootloader_api/5e9de4c86ef186dd/out

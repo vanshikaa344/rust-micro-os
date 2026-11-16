@@ -1,0 +1,13 @@
+/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/3f0cfccc40464d32/out/bootloader_api-3f0cfccc40464d32.d: /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/concat.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/version_info.rs
+
+/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/3f0cfccc40464d32/out/libbootloader_api-3f0cfccc40464d32.rlib: /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/concat.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/version_info.rs
+
+/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/3f0cfccc40464d32/out/libbootloader_api-3f0cfccc40464d32.rmeta: /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs /home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/concat.rs /home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/version_info.rs
+
+/home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/lib.rs:
+/home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/config.rs:
+/home/tilak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.17/src/info.rs:
+/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/concat.rs:
+/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out/version_info.rs:
+
+# env-dep:OUT_DIR=/home/tilak/Desktop/micro/kernel/target/x86_64-unknown-none/debug/build/bootloader_api/25b34922f7dfcdac/out

@@ -1,0 +1,1 @@
+/Users/akshat/Downloads/micro/target/debug/os: /Users/akshat/Downloads/micro/kernel/src/allocator.rs /Users/akshat/Downloads/micro/kernel/src/main.rs /Users/akshat/Downloads/micro/kernel/src/scheduler.rs /Users/akshat/Downloads/micro/kernel/src/sync.rs /Users/akshat/Downloads/micro/os/build.rs /Users/akshat/Downloads/micro/os/src/main.rs
